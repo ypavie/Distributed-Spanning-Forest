@@ -16,10 +16,10 @@ Visual Studio or any other code editor
 ## Installing
 1. Clone the repository to your local machine
     ```
-    git clone https://github.com/<username>/distributed-spanning-forest.git
+    git clone https://github.com/ypavie/Distributed-Spanning-Forest
     ```
 2. Open the project in Unity
-3. Open the "UAV_Behaviour" script and adjust the parameters in the "Start" method to match your 4. desired simulation
+3. Open the "UAV_Behaviour" script and adjust the parameters in the "Start" method to match your desired simulation
 5. Press the play button to start the simulation
 
 ## Running the simulation
